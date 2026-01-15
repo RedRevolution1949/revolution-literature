@@ -1,0 +1,6 @@
+[submodule "欧洲"]
+	path = 欧洲
+	url = https://github.com/RedRevolution1949/revolution-literature-europe.git
+[submodule "中国"]
+	path = 中国
+	url = https://github.com/RedRevolution1949/revolution-literature-china.git
